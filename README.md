@@ -1,6 +1,6 @@
 # AdventureGame-CS-TextRPG
 
-A compact, object-oriented text-based RPG implemented in C#.  Built in the early stages of me learning C#, this project demonstrates solid understanding of inheritance, abstract classes, encapsulation and game state rendering through console output.
+A compact, object-oriented text-based RPG implemented in C#.  Built in the early stages of me learning C# follow a specified UML diagram, this project demonstrates solid understanding of inheritance, abstract classes, encapsulation and game state rendering through console output.
 
 ## Summary
 
@@ -27,15 +27,6 @@ This 3x3 grid-based adventure game features:
 
 - Fully adheres to the class structure specified in the UML diagram provided.
 - Includes custom logic for object storage and removal, ensuring null gaps are re-ordered properly in each room.
-
-## Project Structure
-
-- `Program.cs` — Entry point of the game
-- `GameManager.cs` — Core game logic and rendering loop
-- `Room.cs` — Room behavior, object addition/removal, and drawing
-- `GameObject.cs` — Abstract base for all placeable objects
-- `Character.cs` — Abstract base for stats-bearing objects (Player/Enemy)
-- `Player.cs`, `Enemy.cs`, `PowerUp.cs` — Specific implementations
 
 ## Technologies
 
