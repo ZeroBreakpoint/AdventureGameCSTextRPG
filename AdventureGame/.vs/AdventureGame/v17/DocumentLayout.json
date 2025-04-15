@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bradl\\OneDrive\\Documents\\C# Assessments\\Intro to C#\\AdventureGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A14BB98-688B-44C0-8BF7-036585868001}|AdventureGame\\AdventureGame.csproj|c:\\users\\bradl\\onedrive\\documents\\c# assessments\\intro to c#\\adventuregame\\adventuregame\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A14BB98-688B-44C0-8BF7-036585868001}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A14BB98-688B-44C0-8BF7-036585868001}|AdventureGame\\AdventureGame.csproj|c:\\users\\bradl\\onedrive\\documents\\c# assessments\\intro to c#\\adventuregame\\adventuregame\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A14BB98-688B-44C0-8BF7-036585868001}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A14BB98-688B-44C0-8BF7-036585868001}|AdventureGame\\AdventureGame.csproj|c:\\users\\bradl\\onedrive\\documents\\c# assessments\\intro to c#\\adventuregame\\adventuregame\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A14BB98-688B-44C0-8BF7-036585868001}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A14BB98-688B-44C0-8BF7-036585868001}|AdventureGame\\AdventureGame.csproj|c:\\users\\bradl\\onedrive\\documents\\c# assessments\\intro to c#\\adventuregame\\adventuregame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A14BB98-688B-44C0-8BF7-036585868001}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A14BB98-688B-44C0-8BF7-036585868001}|AdventureGame\\AdventureGame.csproj|c:\\users\\bradl\\onedrive\\documents\\c# assessments\\intro to c#\\adventuregame\\adventuregame\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A14BB98-688B-44C0-8BF7-036585868001}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A14BB98-688B-44C0-8BF7-036585868001}|AdventureGame\\AdventureGame.csproj|c:\\users\\bradl\\onedrive\\documents\\c# assessments\\intro to c#\\adventuregame\\adventuregame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A14BB98-688B-44C0-8BF7-036585868001}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A14BB98-688B-44C0-8BF7-036585868001}|AdventureGame\\AdventureGame.csproj|c:\\users\\bradl\\onedrive\\documents\\c# assessments\\intro to c#\\adventuregame\\adventuregame\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A14BB98-688B-44C0-8BF7-036585868001}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A14BB98-688B-44C0-8BF7-036585868001}|AdventureGame\\AdventureGame.csproj|c:\\users\\bradl\\onedrive\\documents\\c# assessments\\intro to c#\\adventuregame\\adventuregame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A14BB98-688B-44C0-8BF7-036585868001}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\bradl\\OneDrive\\Documents\\C# Assessments\\Intro to C#\\AdventureGame\\AdventureGame\\GameManager.cs",
+              "RelativeDocumentMoniker": "AdventureGame\\GameManager.cs",
+              "ToolTip": "C:\\Users\\bradl\\OneDrive\\Documents\\C# Assessments\\Intro to C#\\AdventureGame\\AdventureGame\\GameManager.cs",
+              "RelativeToolTip": "AdventureGame\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:25:07.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\bradl\\OneDrive\\Documents\\C# Assessments\\Intro to C#\\AdventureGame\\AdventureGame\\Room.cs",
+              "RelativeDocumentMoniker": "AdventureGame\\Room.cs",
+              "ToolTip": "C:\\Users\\bradl\\OneDrive\\Documents\\C# Assessments\\Intro to C#\\AdventureGame\\AdventureGame\\Room.cs",
+              "RelativeToolTip": "AdventureGame\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:09:13.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PowerUp.cs",
+              "DocumentMoniker": "C:\\Users\\bradl\\OneDrive\\Documents\\C# Assessments\\Intro to C#\\AdventureGame\\AdventureGame\\PowerUp.cs",
+              "RelativeDocumentMoniker": "AdventureGame\\PowerUp.cs",
+              "ToolTip": "C:\\Users\\bradl\\OneDrive\\Documents\\C# Assessments\\Intro to C#\\AdventureGame\\AdventureGame\\PowerUp.cs",
+              "RelativeToolTip": "AdventureGame\\PowerUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:09:05.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\bradl\\OneDrive\\Documents\\C# Assessments\\Intro to C#\\AdventureGame\\AdventureGame\\Enemy.cs",
+              "RelativeDocumentMoniker": "AdventureGame\\Enemy.cs",
+              "ToolTip": "C:\\Users\\bradl\\OneDrive\\Documents\\C# Assessments\\Intro to C#\\AdventureGame\\AdventureGame\\Enemy.cs",
+              "RelativeToolTip": "AdventureGame\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:08:55.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\bradl\\OneDrive\\Documents\\C# Assessments\\Intro to C#\\AdventureGame\\AdventureGame\\Player.cs",
+              "RelativeDocumentMoniker": "AdventureGame\\Player.cs",
+              "ToolTip": "C:\\Users\\bradl\\OneDrive\\Documents\\C# Assessments\\Intro to C#\\AdventureGame\\AdventureGame\\Player.cs",
+              "RelativeToolTip": "AdventureGame\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:08:45.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\bradl\\OneDrive\\Documents\\C# Assessments\\Intro to C#\\AdventureGame\\AdventureGame\\Character.cs",
+              "RelativeDocumentMoniker": "AdventureGame\\Character.cs",
+              "ToolTip": "C:\\Users\\bradl\\OneDrive\\Documents\\C# Assessments\\Intro to C#\\AdventureGame\\AdventureGame\\Character.cs",
+              "RelativeToolTip": "AdventureGame\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:08:34.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\bradl\\OneDrive\\Documents\\C# Assessments\\Intro to C#\\AdventureGame\\AdventureGame\\GameObject.cs",
+              "RelativeDocumentMoniker": "AdventureGame\\GameObject.cs",
+              "ToolTip": "C:\\Users\\bradl\\OneDrive\\Documents\\C# Assessments\\Intro to C#\\AdventureGame\\AdventureGame\\GameObject.cs",
+              "RelativeToolTip": "AdventureGame\\GameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:08:20.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bradl\\OneDrive\\Documents\\C# Assessments\\Intro to C#\\AdventureGame\\AdventureGame\\Program.cs",
+              "RelativeDocumentMoniker": "AdventureGame\\Program.cs",
+              "ToolTip": "C:\\Users\\bradl\\OneDrive\\Documents\\C# Assessments\\Intro to C#\\AdventureGame\\AdventureGame\\Program.cs",
+              "RelativeToolTip": "AdventureGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:07:53.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
