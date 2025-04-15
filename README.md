@@ -1,4 +1,4 @@
-# AdventureGame-CS-TextRPG
+# AdventureGameCSTextRPG
 
 A compact, object-oriented text-based RPG implemented in C#.  Built in the early stages of me learning C# follow a specified UML diagram, this project demonstrates solid understanding of inheritance, abstract classes, encapsulation and game state rendering through console output.
 
